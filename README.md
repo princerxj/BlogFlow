@@ -1,4 +1,7 @@
 # BlogFlow AI
+## Screenshots
+
+![BlogFlow Screenshots](./blogflow_screenshots_collage.png)
 
 BlogFlow AI is a human-in-the-loop, multi-agent blog studio. A user creates a blog project, the AI Researcher creates an outline, the Writer creates a draft, and the Editor produces the final polished article. A person reviews and can approve or send back the research and draft before the workflow continues.
 
