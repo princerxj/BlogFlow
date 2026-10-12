@@ -1,5 +1,4 @@
 # BlogFlow AI
-## Screenshots
 
 ![BlogFlow Screenshots](./blogflow_screenshots_collage.png)
 
